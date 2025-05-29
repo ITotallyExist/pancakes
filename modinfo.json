@@ -1,0 +1,10 @@
+{
+  "type": "content",
+  "modid": "pancakemod",
+  "name": "Pancakes",
+  "authors": [
+    "ITotallyExist"
+  ],
+  "description": "A mod that adds pancakes :)",
+  "version": "0.0.0"
+}
